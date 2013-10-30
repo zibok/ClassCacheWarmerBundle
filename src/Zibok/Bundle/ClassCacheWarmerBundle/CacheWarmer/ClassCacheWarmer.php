@@ -6,7 +6,7 @@ use Symfony\Component\HttpKernel\CacheWarmer\CacheWarmerInterface;
 use Symfony\Component\HttpKernel\KernelInterface;
 use Symfony\Component\ClassLoader\ClassCollectionLoader;
 
-class ClassesCacheWarmer implements CacheWarmerInterface
+class ClassCacheWarmer implements CacheWarmerInterface
 {
     /**
      * The kernel to use for warmup

@@ -4,7 +4,7 @@
     "keywords": ["symfony2", "cache-warmer"],
     "homepage": "https://github.com/zibok/ClassCacheWarmerBundle",
     "type": "symfony-bundle",
-    "license": "GPL v2",
+    "license": "GPL-2.0",
     "authors": [
         {
             "name": "Vincent Lepot",
